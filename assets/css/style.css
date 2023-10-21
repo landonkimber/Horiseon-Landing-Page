@@ -1,4 +1,4 @@
-/* *********** Styling for whole page ********** */
+/* *********** Styling across whole page ********** */
 
 * {
     box-sizing: border-box;
@@ -95,7 +95,7 @@ main h2 {
 }
 
 
-/* **********   Styling for benefits   ********** */
+/* **********   Styling for benefits section   ********** */
  aside {
     margin-right: 20px;
     padding: 20px;
